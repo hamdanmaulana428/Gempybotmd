@@ -19,20 +19,20 @@ global.autoread = true // auto read pesan / message
 
 // Other
 global.botname = "PENTABOT-MD" //namabot kalian
-global.ownername= "Gempy×፝֟͜×" //nama kalian
+global.ownername= "حمدان مولانا " //nama kalian
 global.myweb ="https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw" //bebas asal jan hapus
 global.github = "https://github.com/GempyTon" //bebas
 global.email = "gempyhaxor@hotmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6287898307350" // nomor wa kalian
-global.ownernomerr = "+6287898307350" //nmr wa kalian
+global.ownernomer = "6285691136947" // nomor wa kalian
+global.ownernomerr = "+6285691136947" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://i.postimg.cc/L84bLpxL/menu-1.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6287898307350","6287898307350"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6285691136947","6285691136947"] //ganti agar fitur owner bisa di gunakan
 global.packname = '©PENTABOTོ' //sticker wm ubah
-global.author = 'Gempy' //sticker wm ganti nama kalian
+global.author = 'حمدان ' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
